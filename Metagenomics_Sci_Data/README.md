@@ -3,14 +3,16 @@
 ## Microbial Metagenomes Across a Complete Phytoplankton Bloom Cycle: High-Resolution Sampling Every 4 Hours Over 22 Days
 
 Nunn et. al., 2024
+
 Scientific Data
+
 In review
 
 Associated data can be found on figshare: 
 https://doi.org/10.6084/m9.figshare.26882737
 
 
-R Markdown file (.Rmd) includes code to make all figures found in the manuscript
+R Markdown file (.Rmd) includes code to make all figures found in the manuscript.
 The convention for the naming of the metagenomic sequencing files follows this pattern:
 - ORCAS_bact_20210604_08_21
 - ORCAS = location
