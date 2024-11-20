@@ -1,8 +1,8 @@
-#Metaproteomics Analysis 
+# Metaproteomics Analysis 
 
 This folder contains code and files related to the DIA and PRM analysis of the 2021 time series from Orcas Island, WA, USA. 
 
-##File Descriptions: 
+## File Descriptions: 
 
 HABTimeSeries_probedata.csv: File contains all metadata collected by YSI EXO1 Sonde probe, with collection points every 5-10 minutes. Columns include Date, Time, chlorophyll concentration in RFU and ug/L, (Chlorophyll.RFU, Chlorophyll.ugL), conductivity in us/cm (Conductivity.uscm), depth in meters (Depth.m), dissolved oxygen in percent saturation and mg/L (ODO.sat, ODO.mgL), salinity in psu (Sal.psu), pH, temperature in degrees Celsius (Temp.C), battery voltage of the probe (Battery.V), and a combined date and time column (Date.Time). 
 
